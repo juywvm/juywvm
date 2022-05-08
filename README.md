@@ -6,7 +6,7 @@
 - Im currently learning html and js.
 - All my projects are licensed. 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/747816047268200459?theme=dark&bg=000000)](https://discord.com/users/747816047268200459)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/77816047268200459?theme=dark&bg=000000)](https://discord.com/users/747816047268200459)
 
 <img src="https://komarev.com/ghpvc/?username=umt01&label=Numbers%20of%20visitors&color=0b04c7" alt="juywvm" />
 
