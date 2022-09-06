@@ -2,7 +2,7 @@
 
 
 - Hi, I’m Batus
-- +2 Years Lua
+- Lua Scripter since 2016.
 - Im currently learning html and js.
 - All my projects are licensed. 
 
