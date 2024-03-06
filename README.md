@@ -2,8 +2,8 @@
 
 
 - Hi, I’m Batus
-- Lua Scripter since 2016.
-- Im currently learning html and js.
+- Lua Scripter since 2016 + 4 years of JS knowledge.
+- Im currently learning Reverse Engineering.
 - All my projects are licensed. 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/747816047268200459?theme=dark&bg=000000)](https://discord.com/users/747816047268200459)
