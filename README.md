@@ -5,7 +5,7 @@
 - Lua Scripter since 2016 + 4 years of JS knowledge.
 - Im currently learning Reverse Engineering.
 - All my projects are licensed.
-- I'll comeback github later.. 
+- Working on 2 projects, ill comeback github later..
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/999996983743885382)](https://discord.com/users/999996983743885382)
 
