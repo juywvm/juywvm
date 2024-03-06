@@ -2,7 +2,7 @@
 
 
 - Hi, I’m Batus
-- Lua Scripter since 2016 + 4 years of JS knowledge.
+- Lua scripter since 2016 + 4 years of JS knowledge.
 - Im currently learning Reverse Engineering.
 - All my projects are licensed.
 - Working on 2 projects, i'll comeback github later..
